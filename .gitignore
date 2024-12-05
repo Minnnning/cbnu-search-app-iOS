@@ -1,0 +1,89 @@
+# macOS 관련 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon
+Icon?
+.DS_Store
+
+# Thumbnails
+._*
+
+# macOS Finder 설정
+.fseventsd
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+
+# User-specific Xcode files
+xcuserdata/
+*.xcscmblueprint
+
+# Workspace 및 프로젝트 설정
+*.xcworkspace/
+*.xcodeproj/project.xcworkspace/
+
+# 빌드 제품
+build/
+DerivedData/
+
+# 시뮬레이터 로그
+*.log
+
+# Swift Package Manager 관련
+/.build/
+.build/
+Packages/
+/Package.resolved
+# Package.pins는 Package.resolved로 대체됨
+Package.pins
+
+# CocoaPods 관련
+Pods/
+podspec.json
+*.podspec.lock
+
+# Carthage 관련
+Carthage/Build/
+Carthage/Checkouts/
+
+# fastlane 관련
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+/fastlane/report.xml
+/fastlane/screenshots/
+/fastlane/test_output/
+
+# Firebase 관련
+GoogleService-Info.plist
+
+# Secrets
+.env
+
+# 기타 파일
+*.swp
+*.swo
+*.sublime-workspace
+*.xcuserstate
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftLint & SwiftFormat 캐시
+.swiftlint.yml
+.swiftformat
+
+# XCFileLists
+*.xctoolchain
+*.xcfilelist
+*.lst
+
+# SPX 제안 사항
+*.spx
+
+# Tuist 캐시
+/.tuist/
+
